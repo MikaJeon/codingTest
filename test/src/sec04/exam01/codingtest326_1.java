@@ -16,7 +16,7 @@ public class codingtest326_1 {
 		        StringTokenizer st = new StringTokenizer(strmain," ");
 				int n = Integer.parseInt(st.nextToken());//몇 종류의 동전이 있는가
 				int k = Integer.parseInt(st.nextToken());//필요 금액은 얼마인가
-		        
+		        //깃이 희안하네
 		        int[] coin = new int[n];//동전 종류를 받을 배열
 		        int result = 0;//필요 동전 갯수를 받을 변수
 		        
